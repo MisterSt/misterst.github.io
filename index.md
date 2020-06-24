@@ -4,3 +4,6 @@ Pumuckl ist ein Kobold. Er wurde auf einem Schiff geboren. Seine Eltern sind Kla
 * kleiner Kerl, großes Herz
 * kann unsichtbar sein, wenn er will, mit einer Ausnahme: M.Eder
 * er ist bunt und laut und mag Streiche spielen
+As Pumuckl says:
+> Was sich reimt ist gut.
+> Im Bauch ist noch ein Lückerl für ein Stückerl.
